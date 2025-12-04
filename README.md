@@ -1,4 +1,3 @@
-<img src="https://img.shields.io/github/forks/tush-tr/DevOps-Projects"> <img src="https://img.shields.io/github/license/tush-tr/DevOps-Projects"> <img src="https://img.shields.io/github/stars/tush-tr/DevOps-Projects"> <a href="https://twitter.com/tush_tr604" target="blank"><img src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=flat" alt="tush_tr604" /></a>
 
 # Deploy an Application to GKE(Google Kubernetes Engine) 
 ### Tech used:
@@ -112,5 +111,6 @@
 kubectl delete -f deploy.yml
 kubectl delete -f service.yml
 ```
+
 
 > Delete your GKE Cluster from GCP Console.
